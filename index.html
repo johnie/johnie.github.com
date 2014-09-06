@@ -1,0 +1,16 @@
+---
+layout: default
+id: home
+---
+
+<ul class="post-buffer container">
+  {% for post in site.posts limit: 10 %}
+    <li>
+      <div class="post-buffer__item">
+        <time>{{ post.date | date_to_string }}</time>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

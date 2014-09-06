@@ -1,0 +1,19 @@
+# Site settings
+title: Johnie Hjelm
+email: johnie@hjelm.im
+description: "Entreprenörskap, kod och design."
+baseurl: ""
+twitter_username: johniehjelm
+github_username:  johnie
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+# Sass
+sass:
+  sass_dir: assets/_sass
+  style: :compressed
+
+# Exclude
+exclude: ['node_modules/']

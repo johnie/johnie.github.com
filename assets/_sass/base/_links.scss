@@ -1,0 +1,13 @@
+/*------------------------------------*\
+    $LINKS
+\*------------------------------------*/
+
+a{
+  color: $brand-color;
+  text-decoration: none;
+  @include vendor(transition, color .2s ease);
+
+  &:hover{
+    color: lighten($brand-color, 15%);
+  }
+}

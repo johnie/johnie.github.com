@@ -1,0 +1,19 @@
+---
+layout: default
+title: Arkiv
+id: archive
+permalink: /arkiv/
+headerImage: archive.jpg
+backgroundPos: center center
+---
+
+<ul class="archive container">
+  {% for post in site.posts %}
+  <li class="archive__item">
+    <time class="archive__time">{{ post.date | date_to_string }}</time>
+    <h3 class="archive__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  </li>
+  <!-- /.archive__item -->
+  {% endfor %}
+</ul>
+<!-- /.archive -->

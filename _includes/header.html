@@ -1,0 +1,26 @@
+<header class="header" role="banner" {% if page.headerImage %} data-header-image="{{ page.headerImage }}" {% endif %} {% if page.headerImage %} data-background-position="{{ page.backgroundPos }}" {% endif %}>
+  <div class="header__inner">
+    <div class="grid">
+      <div class="grid__item  one-half">
+        <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+      </div>
+      <div class="grid__item  one-half  text-align--right">
+        <nav class="nav" role="navigation">
+          <ul>
+            <li><a href="{{ "/" | prepend: site.baseurl }}" data-page-id="home">Hem</a></li>
+            <li><a href="{{ "/om-johnie" | prepend: site.baseurl }}" data-page-id="about">Om mig</a></li>
+            <li><a href="{{ "/arkiv" | prepend: site.baseurl }}">Arkiv</a></li>
+          </ul>
+        </nav><!-- /.nav -->
+      </div>
+    </div>
+    {% if page.title %}
+    <div class="post-info">
+      <time class="post-date">{{ page.date | date: "%b %-d, %Y" }}</time>
+      <h1 class="post-title">{{ page.title }}</h1>
+    </div>
+    {% endif %}
+  </div>
+  <!-- /.header__inner -->
+</header>
+<!-- /.header -->

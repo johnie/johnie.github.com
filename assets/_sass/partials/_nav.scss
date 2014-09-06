@@ -1,0 +1,36 @@
+/*------------------------------------*\
+    $NAV
+\*------------------------------------*/
+
+.nav{
+  display: inline-block;
+  list-style: none;
+  line-height: 20px;
+  font-size: 14px;
+  @extend .cf;
+
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+
+  li{
+    display: inline-block;
+  }
+
+  a{
+    color: #eee;
+    font-weight: 400;
+    font-size: 1.2em;
+    padding: 0em;
+    padding-right: 1em;
+
+    &:hover{
+      color: $brand-color;
+    }
+
+    &.active{
+      color: $brand-color;
+    }
+  }
+}

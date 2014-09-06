@@ -1,0 +1,42 @@
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <meta content="{{ site.name }}" property="og:site_name">
+  {% if page.title %}
+    <meta content="{{ site.name }}" property="og:title">
+  {% else %}
+    <meta content="{{ site.name }}" property="og:title">
+  {% endif %}
+  {% if page.title %}
+    <meta content="article" property="og:type">
+  {% else %}
+    <meta content="website" property="og:type">
+  {% endif %}
+    <meta content="{{ page.title }}" property="og:description">
+  {% if page.url %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% endif %}
+  {% if page.date %}
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <meta content="{{ site.url }}/om-johnie/" property="article:author">
+  {% endif %}
+  {% if page.headerImage %}
+    <meta content="{{ site.url }}/images/{{ page.headerImage }}" property="og:image">
+  {% else %}
+    <meta content="{{ site.url }}/images/johnie.png" property="og:image">
+  {% endif %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui" />
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript">google.load("jquery", "1");</script>
+  <script type="text/javascript" src="//use.typekit.net/xax8qwg.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  <meta charset="utf-8">
+</head>

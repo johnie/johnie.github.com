@@ -1,0 +1,71 @@
+---
+# Main CSS file
+---
+
+/**
+ * Imports
+ */
+@import "utils";
+@import "lib/normalize";
+@import "lib/mixins";
+@import "lib/helpers";
+
+@import "base/clearfix";
+@import "base/headings";
+@import "base/paragraphs";
+@import "base/links";
+@import "base/articles";
+@import "base/images";
+
+@import "generic/grids";
+@import "generic/widths";
+
+
+@import "partials/header";
+@import "partials/nav";
+@import "partials/footer";
+
+
+@if $global-border-box == true{
+  *, *:before, *:after{
+    box-sizing: border-box;
+  }
+}
+
+::selection{
+  color: #fff;
+  background-color: $base-ui-color;
+}
+
+img::selection{
+  color: transparent;
+  background: transparent;
+}
+
+-moz-::selection{
+  color: #fff;
+  background-color: $base-ui-color;
+}
+
+img-moz-::selection{
+  color: transparent;
+  background: transparent;
+}
+
+html{
+  font:#{($base-font-size/16px)*1em}/#{$line-height-ratio} $base-font-family;
+  overflow-y:scroll;
+  min-height:100%;
+}
+
+body{
+  -webkit-text-size-adjust: auto;
+}
+
+.site{
+  margin: 0;
+}
+
+.main{
+  padding: 2em 1em;
+}
