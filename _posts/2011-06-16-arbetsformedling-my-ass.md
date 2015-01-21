@@ -3,11 +3,14 @@ title: Arbetsförmedling my ass!
 author: admin
 layout: post
 permalink: /arbetsformedling-my-ass/
+headerImage: /images/uploads/2011/06/ams1.jpg
+backgroundPos: center center
 ---
-<img src="http://johniehjelm.me/wp-uploads/2011/06/ams1.jpg" alt="" title="Arbetsförnedringen" class="alignnone size-auto wp-image-398" /> 
+
 Nu har det gått en hel vecka sedan studenten. Känns overkligt och nästan inte alls skönt. Trodde att den lättnad jag förväntade mig skulle komma tidigt efteråt. Tvärtom. Jag vet inte vad jag ska förvänta mig i höst. Ska jag fortsätta frilansa som webdesigner, ska jag försöka hitta en heltidsanställning eller ska jag plugga. Frågor som dyker upp i skallen ständigt som aldrig finner svar.
 
 Men här om dagen bestämde jag i alla fall mig för att skriva in mig på Arbetsförmedlingen. Den uppgiften skulle dock bli mer dramatisk än vad jag kunde tänka mig. Efter att ha tagit mig ner till Märsta centrum där jag visste att AMS låg, så möttes jag av en liten papperslapp på deras dörr att de flyttat till köpcentrumet 1 mil bort. Klockan var mycket men jag bestämde mig ändå för att ta mig dit.  
+
 Väl där kommer jag på att jag glömt skriva in mig på deras hemsida först. Så jag ansluter mig till en av deras datorer. Klockan var här redan 15:45 och de stänger 16:00. Självklart så ska den datorn krångla också. Fick skriva in mig minst 3ggr innan den gav mig &#8220;Du är nu inskriven&#8221;. Jag går till receptionen och frågar snällt om någon skulle kunna ta emot mig för att slutföra min inskrivning. Kvinnan i receptionen påpekar då konkret att klockan är 15.58 och att de absolut inte tänker ta emot några fler. Jag klargör då att de borde ha informerat bättre att deras förra kontor var stängt. Hon går iväg för att se vad hon kan göra.
 
 Efter en kort väntan så kommer en kille ut och också försöker tala om att de stänger, som att jag vore efterbliven. Jag drar igenom samma historia för honom och han beslutar sig ändå för att ta emot mig. Tackar då hjärtligt och vi går in på hans kontor.  

@@ -3,12 +3,11 @@ title: Tro det bästa
 author: admin
 layout: post
 permalink: /tro-det-basta/
-categories:
-  - Webbdesigner
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2013/06/lunch-atop-skyscraper-new-york-construction-workers-crossbeam1.jpg" alt="Workplace" class="aligncenter size-full wp-image-1283" /> 
 
-<p class=intro>Även de smartaste, skarpaste människorna gör klantiga saker ibland. De missar deadlines. Designers kan göra dåliga UX-beslut eller skickar super-slarviga PSDs. Utvecklare kan lyckas göra ett dussin buggar i koden medan de försöker lösa endast en. Misstag händer. Men din reaktion på dessa händelser sätter tonen för din arbetsplats.</p> 
+<img src="/images/uploads/2013/06/lunch-atop-skyscraper-new-york-construction-workers-crossbeam1.jpg" alt="Workplace" class="aligncenter" /> 
+
+<p class="lead">Även de smartaste, skarpaste människorna gör klantiga saker ibland. De missar deadlines. Designers kan göra dåliga UX-beslut eller skickar super-slarviga PSDs. Utvecklare kan lyckas göra ett dussin buggar i koden medan de försöker lösa endast en. Misstag händer. Men din reaktion på dessa händelser sätter tonen för din arbetsplats.</p> 
 
 Som medarbetare, kan du anta att personen är en idiot eller lat. Eller så kan du ta den bästa tänkbara förklaringen till situationen genom att tro det bästa i människor. Du kan anta kompetens, hårt arbete och flit. Denna designer har antagligen planerat en grym interaktion som inte lyckats visas i PSDn, så det kanske är därför dess UX är konstig. Filerna kanske också är rörig eftersom designern har jobbat 70 timmar i veckan för att få produkten släppt. Att utvecklaren kanske är alltför upptagen med att bygga färdigt produkten för att hinna QA varje bit kod, så det visar sig att utvecklaren behöver lite stöd, inte kritik. Tills du känner till fakta eller har haft en chans att diskutera det, varför inte ta det bästa?
 
@@ -16,7 +15,7 @@ Att tro det bästa i människor är ett enkelt koncept men svårt i utförandet.
 
 David Foster Wallace predikar denna idé vackert i sitt berömda Kenyon College-tal 2005, *This is Water:*
 
-<em>“You can choose to look differently at this fat, dead-eyed, over-made-up lady who just screamed at her kid in the checkout line. Maybe she’s not usually like this. Maybe she’s been up three straight nights holding the hand of a husband who is dying of bone cancer. Or maybe this very lady is the low-wage clerk at the motor vehicle department, who just yesterday helped your spouse resolve a horrific, infuriating, red-tape problem through some small act of bureaucratic kindness. Of course, none of this is likely, but it’s also not impossible. It just depends what you want to consider. If you’re automatically sure that you know what reality is, and you are operating on your default setting, then you, like me, probably won’t consider possibilities that aren’t annoying and miserable. But if you really learn how to pay attention, then you will know there are other options.”</em>
+> “You can choose to look differently at this fat, dead-eyed, over-made-up lady who just screamed at her kid in the checkout line. Maybe she’s not usually like this. Maybe she’s been up three straight nights holding the hand of a husband who is dying of bone cancer. Or maybe this very lady is the low-wage clerk at the motor vehicle department, who just yesterday helped your spouse resolve a horrific, infuriating, red-tape problem through some small act of bureaucratic kindness. Of course, none of this is likely, but it’s also not impossible. It just depends what you want to consider. If you’re automatically sure that you know what reality is, and you are operating on your default setting, then you, like me, probably won’t consider possibilities that aren’t annoying and miserable. But if you really learn how to pay attention, then you will know there are other options.”
 
 En arbetsplats som tror på det bästa stärker. Medarbetarna känner förtroende. Det finns ingen anledning att dölja eller minimera misstag; dessa misstag kan lätt bekräftas och förbättras utan karaktäristiska attacker. När du inte tro det bästa, så gör du en massa antaganden om motiv och avsikter. När du tror det bästa, kan du fokusera konstruktiv kritik på utförande, taktik, strategi. Ni kan gå vidare snabbare, utan nåt extra bagage med emotionellt arbete.
 

@@ -11,6 +11,10 @@
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
   }
+  img{
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 
@@ -76,7 +80,7 @@
 }
 
 .archive__time{
-  padding-right: 1em;
+  min-width: 6em;
 }
 
 .archive__title{

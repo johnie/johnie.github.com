@@ -19,10 +19,18 @@ do ->
       backgroundPos = header.data("background-position")
       if backgroundImage
         header.css
-          "background-image": "url('/images/" + backgroundImage + "')"
+          "background-image": "url('" + backgroundImage + "')"
           "background-position": if backgroundPos then backgroundPos else "top center"
+
+  fullVideo =
+    init: ->
+      this.starter()
+    starter: ->
+      article = $("article")
+      article.fitVids()
 
   
   $ ->
     menu.init()
     headerImage.init()
+    fullVideo.init()

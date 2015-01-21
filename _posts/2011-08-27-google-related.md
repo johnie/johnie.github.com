@@ -8,5 +8,7 @@ Google gör det igen. Varje dag kommer jag över nya ämnen eller objekt jag vil
 
 Säg att du läser om en restaurang i gamla stan. Det då [Google Related][1] gör är att ta fram adressen, bilder och lite annat småplock som kan vara intressant. Själva datan som de plockar upp är också vad andra har gjort efter att de besökt samma sida som dig. Men vi får se hur länge det håller i samband med den kontroversiella [kaklagen][2]. Sedan för att slippa dessa mängder av flikar, så får du all information på samma sida.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/r4rlWygcJqI" frameborder="0" allowfullscreen></iframe>
+
  [1]: http://google.com/related
  [2]: http://johniehjelm.me/kaklagen-men-inte-for-sotsugna-421 "Kaklagen. Men inte för sötsugna."

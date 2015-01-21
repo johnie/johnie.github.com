@@ -1,18 +1,13 @@
 ---
-title: 'Snart finns inget som kallas &#8220;offline&#8221;'
+title: Snart finns inget som kallas "offline"
 author: admin
 layout: post
 permalink: /snart-finns-inget-som-kallas-offline/
-categories:
-  - Webbpolitik
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2013/06/offline.png" alt="offline"class="aligncenter size-full wp-image-1239" /> 
 
-<p class="intro">
-  Inom en snar framtid kommer även &#8216;ludditer&#8217; att spåras och alla deras handlingar kvantifieras. Det enda alternativet är att skapa defensiva lagar som håller politiker till svars.
-</p>
+Inom en snar framtid kommer även 'ludditer' att spåras och alla deras handlingar kvantifieras. Det enda alternativet är att skapa defensiva lagar som håller politiker till svars.
 
-Som svar på den pågående upplösningen av NSA, så har jag hört och läst en massa om människor som diskuterar om att &#8220;gå utanför rutnätet&#8221;. Ett exempel kan vara att använda mer kontanter istället för kreditkort, inte köpa saker på nätet, ta hjälp av kryptering för sin email, etc.
+Som svar på den pågående upplösningen av NSA, så har jag hört och läst en massa om människor som diskuterar om att "gå utanför rutnätet". Ett exempel kan vara att använda mer kontanter istället för kreditkort, inte köpa saker på nätet, ta hjälp av kryptering för sin email, etc.
 
 Alla avsikter låter bra, men det är meningslöst.
 
@@ -34,9 +29,9 @@ Genom att använda kryptering kan du få tillbaka balansen till processen för a
 
 Utan kryptering, så tillåter vi varje enhet att spela in och arkivera allt, utan svårigheter, all våra digitala kommunikation och information. Med kryptering, tvingar vi dem att fokusera sin uppmärksamhet på högre värda mål.
 
-USA&#8217;s regering byggde nyligen en stor anläggning i Utah som kommer att användas för att lagra nästan allt som passerar genom det inhemska telenätet. De kommer även lagra krypterad kommunikation som de ännu inte kan dekryptera, men till vilket syfte? De kommer att lagra det tills de kan dekryptera det utan svårigheter och när det är kostnadseffektivt. Detta innebär att eftersom vi tillåter regeringar att i hemlighet spela in vår information nu, så vi tillåter dem att dekryptera vår nuvarande krypterade information i framtiden.
+USA's regering byggde nyligen en stor anläggning i Utah som kommer att användas för att lagra nästan allt som passerar genom det inhemska telenätet. De kommer även lagra krypterad kommunikation som de ännu inte kan dekryptera, men till vilket syfte? De kommer att lagra det tills de kan dekryptera det utan svårigheter och när det är kostnadseffektivt. Detta innebär att eftersom vi tillåter regeringar att i hemlighet spela in vår information nu, så vi tillåter dem att dekryptera vår nuvarande krypterade information i framtiden.
 
-***Slutsats: *Kryptering är absolut nödvändigt, men det är inte ett universalmedel, och kan inte avskräcka framtida motståndare.**
+**Slutsats: *Kryptering är absolut nödvändigt, men det är inte ett universalmedel, och kan inte avskräcka framtida motståndare.***
 
 ### Det finns bara en lösning, och den är enkel
 

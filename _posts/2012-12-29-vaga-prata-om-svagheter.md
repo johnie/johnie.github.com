@@ -3,10 +3,9 @@ title: Våga prata om svagheter
 author: admin
 layout: post
 permalink: /vaga-prata-om-svagheter/
-categories:
-  - Allmänt
+headerImage: http://i.giphy.com/rR29jBsTB3lZe.gif
+backgroundPos: center center
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2012/12/Batmanblack-300x120.png" alt="Batman" class="alignright size-medium wp-image-1265" />
 
 Det är svårt nog att vi måste prata om våra styrkor med andra, men våra svagheter? Det är ännu mer förvirrande. Vi blir bara ombedda att prata om våra svagheter och våra styrkor i en intervju, men efter att vi får jobbet, då är vi nästan aldrig ombedda att tala om vad som gör oss så bra. Våra svagheter dock, verkar komma upp i varje gång vi gör ett misstag eller om något går fel. Så istället för att lära sig att konstant tala gott om oss själva, så verkar det mer värdefullt att lära sig att tala om vad håller oss tillbaka. Av någon annan anledning så kan det hjälpa oss att gå framåt.
 

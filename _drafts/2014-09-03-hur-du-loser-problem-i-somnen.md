@@ -1,0 +1,39 @@
+--- 
+published: true
+title: Hur du löser problem i sömnen
+layout: post
+permalink: hur-du-loser-problem-i-somnen
+headerImage: /images/dream.jpg
+backgroundPos: center center
+---
+
+<p class="lead">Att drömma i kod gjorde mig till en bättre utvecklare och samma gäller för dig.</p>
+
+Första gången jag drömde i kod, vaknade jag utmattad och berörd för min mentala stabilitet. Jag var lite febrig, bekämpades av effekterna till en kommande förkylning, vilket muckade med min hjärnkemi och förstörde alla chanser att en normal nattsömn. Jag var också mitt i en lång, stressig vecka på jobbet, där jag drog långa timmar som den enda frontend-utvecklaren. Jag skulle senare komma att förstå nyanserna i vad som hände den natten, men under den tiden kunde jag bara förstå det i bokstavlig mening: Jag hade en dröm om, inom och i form av kod. <em>Bara kod.</em>
+
+Det kändes som jag satt fast i en textredigerare med bitar av text som flög över mitt synfält. Variables, arrays, objects, conditional statements: det är allt jag kunde se. Hela natten. Och jag var inte bara en passiv åskådare i drömmen, jag kodade logik och byggde functions i timmar och allt klickade rätt. Jag verkade tackla problem som jag undermedvetet förväntade mig skulle komma upp dagen efter.
+
+Det var inte direkt en mardröm, men det var långt ifrån trevligt.
+
+Trots min störda sömnsrytm, så avslutade jag projektet den dagen och hoppade på andra saker. Det är svårt att säga om min första "koddröm" förbättrade min insats till det projektet på något mätbart sätt, men på morgonen kom en känsla av beredskap för att lösa de problem som jag skulle möta den dagen, som om jag hade övat. Jag har haft många fler upplevelser som denna under de senaste åren, där min hjärna fortsätter att arbeta på "dagens problem" under mina drömmar, och nu är jag ganska säker på att det har gjort mig till en bättre utvecklare. 
+
+#### Vetenskapen om lärande drömmar
+
+Innan jag berätta hur jag har använt mina drömmar som ett utrymme att öva programmering skicklighet, vill jag påpeka att en hel del litteratur om drömmande drivor in i pseudovetenskapliga, vidmakthålls genom populärkultur och en allmän missuppfattning om hur det undermedvetna fungerar. Begrepp som dröm skyltar, visioner och andliga guider har fördunklat en del av den verkliga vetenskapliga forskning som finns om drömmar, liksom den genuina vetenskaplig grund för några av de pseudovetenskapliga grejer. Till exempel, en idé från Chris Nolans film Inception-som du kan använda en "totem" för att berätta för dig om du är vaken eller drömmer-är baserad på verkliga fenomen där ditt sovande sinnet har svårt att tro att du drömmer om du inte kan utlösa en av de naturliga giveaways (här är ett exempel: räkna fingrarna på ena handen under en dröm Du kommer förmodligen starkare än fem, eftersom den del av hjärnan som instinktivt vet det rätta svaret är i viloläge.). 
+
+Trots pseudovetenskap har forskare generera några ganska häftiga insikter om drömmar: ett fåtal experter har till och med visat hur ditt sinne kan fortsätta att lära och utveckla fysiska färdigheter medan du sover. Dr Daniel Erlacher nyligen genomfört ett experiment som visade just detta: hans testpersonerna tränade en enkel uppgift samtidigt drömmer och visade betydande förbättring när du utför uppgiften i den verkliga världen. Med tillräckligt disciplin, skulle någon kunna återanvända sina sovande timmar för att förbättra en färdighet eller att lösa verkliga problem. 
+
+Men hur fungerar det? 
+Neurologer har vetat länge att hjärnan använder sömncykler att fortsätta förstå gårdagens erfarenheter och arbeta igenom problemen. Problemet är dock att så få människor naturligt kan komma ihåg sina drömmar, och ännu färre kan naturligtvis knuffa deras undermedvetna i en önskad riktning. Det finns tekniker för honing dessa exakta kunskaper, men jag kommer inte närmare in på dem här (i stället, det är en fantastisk resurs). Jag kommer dock att dela några av de saker jag har lärt mig och upplevt samtidigt drömmer i kod, som förhoppningsvis kommer att uppmuntra dig att prova med någon skicklighet. 
+
+Abstract problemet. Det är svårt att förklara, men koden i mina drömmar inte är en faktisk programmeringsspråk, jag vet bara att det är kod, och jag vet vad det innebär. Sade ett annat sätt, jag skulle aldrig kunna kopiera det jag minns från mina drömmar direkt i en textredigerare och förväntar att det ska fungera. När jag drömmer i JavaScript jag vet att det är JavaScript och jag vet vad det betyder, men det är faktiskt bara rappakalja. Om jag skulle försöka läsa den rad för rad, skulle det inte göra någon mening alls, men om jag tänker på det begreppsmässigt, det är uppenbart. Dreaming detta sätt är faktiskt ganska bra för mig, eftersom det tvingar mig att koda abstrakt, utan att oroa dig för syntax. Koden blir bara en platshållare för logik och funktionalitet bakom det, vilket jag kan översätta till den äkta varan senare (om jag kommer ihåg det). 
+
+Din hjärna är uttråkad under sömnen, så sätta dem i arbete! Så mycket av min dag går åt att skriva, klicka, dra och drar. Jag sällan sitta ner och bara tänka på ett problem, och när jag gör, jag hålla det till ett par minuter. Tänk om du tog en bulk av din dag att luta tillbaka i stolen, stirra i taket och tänka. Du kan sortera igenom ett problem, bygga ut en idé, eller föreställa något helt nytt. Om den tanken tilltalar dig som det gör för mig, bör du inse att den tid du spenderar sova är perfekt för detta. Hell, din hjärna redan gör det ... Problemet är, vi låter vårt undermedvetna diktera våra drömmar, och det skulle snarare vi tillbringar natten slåss personliga demoner, älta pinsamma händelser, och att leva ut fantasier. Vore det inte bra om du kunde få ditt sovande sinne att fokusera på en sak i ett par timmar? Ännu bättre: låt oss få det att fokusera på saker som verkligen betyder något, som att uppnå våra mål, honing vår kompetens, och bli bättre versioner av oss själva. 
+
+Utveckla muskelminne (utan att flytta dina muskler). Många färdigheter kräver upprepning att utvecklas. Maste ett musikinstrument är det perfekta exemplet: du kanske helt förstå hur ett piano fungerar i teorin, men tills du har haft en hel del övning på tangenterna, kommer du inte att bli en bra spelare. Detsamma gäller i mitt yrke, och de flesta av mina fritidsintressen. Poängen är att drömmar är det perfekta stället för att repetera och öva en färdighet, även en fysisk som att spela piano, vilket kräver muskelminne och upprepning. Det kan vara svårt att tro att drömmar kan överföra till muskelminne, men forskningen är det: det faktiskt fungerar. Även om effekten är bara ett resultat av ökat förtroende till följd av förtrolighet och praktik, det är ganska häpnadsväckande att tro att vi skulle kunna använda timmar vi spenderar sova för att bli mer effektiva på någonting. 
+
+Så oneironauts alla wannabe ute? 
+
+Om så är fallet, finns det några ställen som du kan börja. Använd en dagbok för att logga dina drömmar varje natt (hålla den vid din säng, och skriva ner allt du kommer ihåg så fort du vaknar, annars kommer du att glömma det). Också lära sig några tekniker för att åstadkomma klarhet i drömmar och praktisera dem varje kväll. Slutligen, om du har problem att arbeta igenom i en dröm, arbete på det en timme innan du somnar, och försöka göra det det sista du tänker på när du slumra. 
+
+Det har varit flera år sedan jag först drömde i kod, och jag minns att jag verkligen hatar att det hände. Jag korrelerade till att inte kunna lägga ner mitt arbete, eller en oförmåga att "stänga av mig" och slappna av. År av drömmar i koden senare inser jag att det motsatta är sant: att drömma i koden är exakt hur mitt sinne slappnar av. Jag börjar pussel under dagen, och i sömnen jag lösa dem. Det resulterande känsla av fullbordan, den känsla av uppfyllelse-det ger vila. Och ger mig energi. Precis vad jag behöver från åtta timmars sömn.

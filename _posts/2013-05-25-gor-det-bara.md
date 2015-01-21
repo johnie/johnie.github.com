@@ -3,10 +3,9 @@ title: Gör det bara!
 author: admin
 layout: post
 permalink: /gor-det-bara/
-categories:
-  - Webbdesigner
+headerImage: /images/uploads/2013/05/tips-creating-workplace-motivation-kopia.jpg
+backgroundPos: center center
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2013/05/tips-creating-workplace-motivation-kopia.jpg" alt="Motivation" class="aligncenter size-full wp-image-1189" /> 
 
 Skitsnack. Så enkelt är det inte.
 

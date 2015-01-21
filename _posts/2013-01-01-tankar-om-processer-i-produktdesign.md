@@ -6,7 +6,7 @@ permalink: /tankar-om-processer-i-produktdesign/
 categories:
   - Webbdesigner
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2012/12/tumblr_mfdg01rHoz1qi73s5o1_500-300x300.jpg" alt="" title="Design" class="alignright size-medium wp-image-1135" />
+<img src="/images/uploads/2012/12/tumblr_mfdg01rHoz1qi73s5o1_500-300x300.jpg" alt="" title="Design" class="alignright" />
 
 I början är din produkt allt. Det är därför du startar din strävan. Den definierar din kultur, ditt sätt att arbeta och det bygger ditt varumärke &#8211; särskilt i de tidiga dagarna. Du vill anställa folk baserat på din produkts vision och du hittar kunder som förstår varför de behöver din produkt och kanske ev. vara beredda att betala pengar för att använda den.
 

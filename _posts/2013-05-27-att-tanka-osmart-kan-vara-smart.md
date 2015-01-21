@@ -3,11 +3,9 @@ title: Att tänka osmart kan vara smart?!
 author: admin
 layout: post
 permalink: /att-tanka-osmart-kan-vara-smart/
-categories:
-  - Webbdesigner
-  - Webbpolitik
+headerImage: /images/uploads/2013/05/Bombs.jpg
+backgroundPos: center center
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2013/05/Bombs.jpg" alt="Bombs" class="aligncenter size-full wp-image-1207" /> 
 
 Satt och zappade och kom in på en dokumentär om Kalla kriget. Under det kalla kriget, så flög Amerikanarna in med spaningsplan över Sovjet för att försöka räkna hur många bombplan som de hade. Dock så visste Sovjet exakt vad amerikanerna höll på med, så de lade ut hundratals falska trä-bombplan, för att lura amerikanerna att tro att de hade en mycket större kapacitet än vad de faktiskt hade. Problemet för Sovjet var att Amerikanarna trodde på sin egna intelligens och instinkt, så de byggde riktiga bombplan för att motverka det upplevda hotet som de kände från Sovjet.
 

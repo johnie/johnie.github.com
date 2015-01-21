@@ -3,12 +3,10 @@ title: Bli bättre
 author: admin
 layout: post
 permalink: /bli-battre/
-categories:
-  - Webbdesigner
-  - Webbpolitik
 ---
 
-<p class=intro>Unga designers, utvecklare och de som är nya till branschen; jag ska lära er en hemlighet. Kanske några hemligheter till och med. Saker som du kanske finner som långa och smärtsamma processer, ändlösa och hemska kunder.</p> 
+<p class="lead">Unga designers, utvecklare och de som är nya till branschen; jag ska lära er en hemlighet. Kanske några hemligheter till och med. Saker som du kanske finner som långa och smärtsamma processer, ändlösa och hemska kunder.</p> 
+
 Låt mig börja med att berätta den enskilt viktigaste saken du kan göra för dig själv &#8211; *lär känna din jävla självuppskattning*. Om du inte kan värdera ditt eget arbete. Vem kommer då göra det? Säg mig, skulle du anställa en person som är &#8211; &#8220;begåvad men anspråkslös&#8221; över en &#8220;begåvad och vet att han/hon kommer att göra ett förbannat bra jobb&#8221;. Kanske du skulle. Men förtroende är halva fighten. Du behöver en ryggrad i denna bransch. Inte för att du måste ta en massa skit (som du kommer. Jag lovar.) Men eftersom du måste veta när och hur man ska slå tillbaka mot det. Värdera ditt arbete. Värdera dina val för du äger dem. De är dina vapen.
 
 Känner du dig pumpad? Taggad? Arg? Bra. Då sätter vi igång.

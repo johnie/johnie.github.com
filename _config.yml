@@ -16,4 +16,4 @@ sass:
   style: :compressed
 
 # Exclude
-exclude: ['node_modules/']
+exclude: ['node_modules/', 'gulpfile.js']

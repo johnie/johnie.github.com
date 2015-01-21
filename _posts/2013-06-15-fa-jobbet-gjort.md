@@ -6,7 +6,7 @@ permalink: /fa-jobbet-gjort/
 categories:
   - Webbdesigner
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2013/06/work1-300x266.png" alt="work" class="alignright size-medium wp-image-1247" />
+<img src="/images/uploads/2013/06/work1-300x266.png" alt="work" class="alignright" />
 
 Allt du lärt dig hittills kommer inte ha någon betydelse förrän du ser till att plocka upp din penna, din gitarr, datormus, och börjar sätta igång att jobba. Punkt. Du måste få jobbet gjort, eftersom ingen annan kommer göra det åt dig.
 

@@ -3,10 +3,9 @@ title: Håll din tid i schack
 author: admin
 layout: post
 permalink: /hall-din-tid-i-schack/
-categories:
-  - Webbdesigner
 ---
-<img src="http://johniehjelm.me/wp-content/uploads/2013/06/time1-224x300.png" alt="time" class="alignright size-medium wp-image-1249" />
+
+<img src="/images/uploads/2013/06/time1-224x300.png" alt="time" class="alignright" />
 
 Tid är vår mest värdefulla resurs. Det är något vi tappar konstant och vi får inte något mer av det. Det är nyttigt att tänka att varje ögonblick som passerar, är ett ögonblick vi aldrig kommer få uppleva igen.
 

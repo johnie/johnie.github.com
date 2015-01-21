@@ -6,9 +6,8 @@ permalink: /start-with-why-simon-sinek/
 categories:
   - Bok
 ---
-<div class="pRelative">
-  <img src="../images/uploads/2012/12/image5-199x300.jpg" alt="" title="Simon Sinek" class="alignright size-medium wp-image-1119" />
-</div>
+
+<img src="/images/uploads/2012/12/image5-199x300.jpg" alt="" title="Simon Sinek" class="alignright" />
 
 Jag läste nyligen &#8220;Start With Why&#8221; av Simon Sinek, där han ger sig på frågan &#8220;Varför gör vi det vi gör?&#8221;. Han anser att fler bör börja med &#8220;Varför&#8221;.
 
@@ -16,7 +15,7 @@ I sin bok &#8220;Start With Why&#8221;, tar Sinek fram varför vissa människor 
 
 Sinek bygger på en rad verkliga berättelser, vävda samman till en klar bild av vad som verkligen krävs för att leda och inspirera andra. I observation och studier av ledare med största globala inflytande, upptäckte Simon Sinek att de alla har något gemensamt. De alla tänker, agerar och kommunicerar på exakt samma sätt. Detta är i stark kontrast till vad de flesta andra människor gör.
 
-<img src="../images/uploads/2012/12/startwithwhy1-300x300.png" alt="start with why" width="300" height="300" class="alignleft size-medium wp-image-1259" />Simon kallar denna kraftfulla idé &#8220;The Golden Circle&#8221;. Det ger en plan på vilka organisationer kan byggas, kan rörelser ledas och människor kan inspireras. Det hela börjar med &#8220;varför&#8221;. 
+<img src="/images/uploads/2012/12/startwithwhy1-300x300.png" alt="start with why" width="300" height="300" class="alignleft" />Simon kallar denna kraftfulla idé &#8220;The Golden Circle&#8221;. Det ger en plan på vilka organisationer kan byggas, kan rörelser ledas och människor kan inspireras. Det hela börjar med &#8220;varför&#8221;. 
 
 Poängen till Simon filosofi är att varje organisation kan förklara vad den gör. Vissa kan förklara hur de gör det, men väldigt få kan definitivt formulera varför.
 
@@ -28,7 +27,7 @@ Att förstå hur detta enkla diagram fungerar är nyckeln till att veta varför 
 
 Sinek informerar sina läsare att de som börjar med &#8220;varför&#8221; aldrig manipulerar, de inspirerar. Människor följer sanna ledare inte för att de måste &#8211; de följer eftersom de vill.
 
-**En rad frågor öppnas upp till läsaren som: **
+**En rad frågor öppnas upp till läsaren som:**
 
 - Varför finns din organisation? 
 
@@ -43,3 +42,5 @@ Att börja med &#8220;Varför&#8221; är viktigt vare sig man är en entreprenö
 **Orkar du inte läsa boken?**
 
 Simon har även föreläst om detta fenomen hos TED. Men jag rekommenderar fortfarande att ni läser boken!
+
+<iframe src="//player.vimeo.com/video/40979758" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

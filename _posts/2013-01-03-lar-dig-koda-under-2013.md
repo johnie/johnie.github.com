@@ -3,14 +3,13 @@ title: Lär dig koda under 2013
 author: admin
 layout: post
 permalink: /lar-dig-koda-under-2013/
-categories:
-  - Webbdesigner
 ---
+
 Nyårslöften är för det mesta skitsnack. Speciellt de som vaga &#8220;lära sig att koda&#8221;. Men om du inte vet någonting om programmering så är det svårt att komma med något bättre (dvs mer specifikt). Detta inlägg är avsett att hjälpa dig att räkna ut exakt vad ditt &#8220;lära sig att koda&#8221;-mål bör vara under 2013, så att du har en chans att lyckas. 
 
 För mig själv, så har processen att lära sig koda var otroligt frustrerande under många år. Jag kunde kopiera tutorials(övningar) rakt av, men jag hade ingen aning om vad som hände, eller varför. Men genom erfarenhet och hjälp av en del människor, så har jag till slut fattat.
 
-<img src="http://johniehjelm.me/wp-content/uploads/2013/01/skolbanken-1024x643.jpg" alt="" title="skolbänken" class="aligncenter size-large wp-image-1145" /> 
+<img src="/images/uploads/2013/01/skolbanken-1024x643.jpg" alt="" title="skolbänken" class="aligncenter" /> 
 
 **Varför skolor egentligen funkar**
 
