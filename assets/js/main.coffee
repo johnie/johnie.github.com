@@ -9,7 +9,7 @@ do ->
       this.starter()
     starter: ->
       currentPage = $('body').data('current-page');
-      $('.nav a[data-page-id='" + currentPage + "']').addClass 'active' if currentPage
+      $('.nav a[data-page-id=' + currentPage + ']').addClass 'active' if currentPage
 
   headerImage =
     init: ->
