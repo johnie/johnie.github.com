@@ -3,7 +3,6 @@
 \*------------------------------------*/
 
 .header{
-  padding: 2em;
   background-color: $base-ui-color;
   background-repeat: no-repeat;
   background-position: top center;
@@ -13,7 +12,12 @@
   @extend .cf;
 
   .header__inner{
+    padding: 2em;
     @extend .cf;
+
+    .has-header &{
+      background-color: rgba(0, 0, 0, 0.5);
+    }
   }
 }
 
@@ -49,5 +53,5 @@
 
 .post-title{
   line-height: 1.1;
+  margin-bottom: 1em;
 }
-
