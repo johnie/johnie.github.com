@@ -15,7 +15,7 @@ Det har varit en glädje att få växa upp med dig. Från hata alla dina andetag
 
 <img src="/images/stephanie30_2.jpg" class="alignright syster" style="width: 300px; height: auto; display: block;">
 
-Jag sitter på kontoret denna soliga februarimåndag, ändå är det kallt i rummet och jag önskar att jag hade tagit med en tröja. Bilar rör sig på vägarna i närheten; en man säljer Situation Stockholm vid hörnet. På något sätt, även om jag vet att de gör ljud, så jag hör ingenting annat än en dunk av de samma färglösa frågorna mot mitt spända och tysta sinne. Det är svårt att veta vad man ska säga till dig. Du är fortfarande ung och vacker och du fler "början på något nytt" än du vet som ligger framför dig; dina dagar har fortfarande runda hörn.
+Jag sitter här på kontoret denna soliga februarimåndag, ändå är det kallt i rummet och jag önskar att jag hade tagit med en tröja. Bilar rör sig på vägarna i närheten; en man säljer Situation Stockholm vid hörnet. På något sätt, även om jag vet att de gör ljud, så jag hör ingenting annat än en dunk av de samma färglösa frågorna mot mitt spända och tysta sinne. Det är svårt att veta vad man ska säga till dig. Du är ung och vacker och du har fler "början på något nytt" än du vet om som ligger framför dig; dina dagar har fortfarande runda hörn.
 
 Jag vill ha dig som en flygande drake; fri och drömmer orörda drömmar. Det finns alltid impulsen att ge dig bara mjuka ord, varma ord, för att fylla detta inlägg med endast försäkringar.
 
