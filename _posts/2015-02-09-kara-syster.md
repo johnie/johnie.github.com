@@ -29,7 +29,7 @@ Jag vill ha dig som en flygande drake; fri och drömmer orörda drömmar. Det fi
 * Det är okej att vara självisk ibland.
 * Kärlek är inte friktionsfritt, men det kan vara lätt.
 
-Du är som sagt en vacker kvinna som värderas och är älskad av många, inklusive mig själv. Ta varje dag med tålamod och förståelse, och vet om att Emilio är så stolt över den mamma som du har blivit. Jag vet att jag är.
+Du är som sagt en vacker kvinna som värderas och är älskad av många, inklusive mig själv. Ta varje dag med tålamod och förståelse, och vet om att din son Emilio är så stolt över den mamma som du har blivit. Jag vet att jag är.
 
 Jag älskar dig.
 
