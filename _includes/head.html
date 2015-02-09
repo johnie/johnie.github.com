@@ -2,27 +2,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta content="{{ site.name }}" property="og:site_name">
-  {% if page.title %}
-    <meta content="{{ site.name }}" property="og:title">
-  {% else %}
-    <meta content="{{ site.name }}" property="og:title">
-  {% endif %}
-  {% if page.title %}
-    <meta content="article" property="og:type">
-  {% else %}
-    <meta content="website" property="og:type">
-  {% endif %}
-    <meta content="{{ page.title }}" property="og:description">
-  {% if page.url %}
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-  {% endif %}
-  {% if page.date %}
-    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-    <meta content="{{ site.url }}/om-johnie/" property="article:author">
-  {% endif %}
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}"/>
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+  <meta property="og:site_name" content="Johnie Hjelm"/>
+  <meta property="og:description" content="{% if page.date %}{{ page.content | strip_html | truncatewords: 50 }}{% else %}Two cripreneurs making the world a little bit better with web accessibility, testing and front-end development{% endif %}"/>
+  <meta property="og:type" content="website" />
   {% if page.headerImage %}
-    <meta content="{{ site.url }}/images/{{ page.headerImage }}" property="og:image">
+    <meta content="{{ site.url }}{{ page.headerImage }}" property="og:image">
   {% else %}
     <meta content="{{ site.url }}/images/johnie.png" property="og:image">
   {% endif %}
