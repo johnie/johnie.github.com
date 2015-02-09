@@ -5,12 +5,12 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: 'http://johniehjelm.me' }}"/>
   <meta property="og:site_name" content="Johnie Hjelm"/>
-  <meta property="og:description" content="{% if page.date %}{{ page.content | strip_html | truncatewords: 50 }}{% else %}Two cripreneurs making the world a little bit better with web accessibility, testing and front-end development{% endif %}"/>
+  <meta property="og:description" content="{% if page.date %}{{ page.content | strip_html | truncatewords: 50 }}{% else %}I paid the cost to be the boss{% endif %}"/>
   <meta property="og:type" content="website" />
   {% if page.headerImage %}
-    <meta content="{{ site.url }}{{ page.headerImage }}" property="og:image">
+    <meta content="http://johniehjelm.me{{ page.headerImage }}" property="og:image">
   {% else %}
-    <meta content="{{ site.url }}/images/johnie.png" property="og:image">
+    <meta content="http://johniehjelm.me/images/johnie.png" property="og:image">
   {% endif %}
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui" />
