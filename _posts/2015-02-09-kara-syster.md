@@ -7,13 +7,13 @@ headerImage: /images/stephanie30.jpg
 backgroundPos: center center
 ---
 
-<img src="/images/stephanie30_2.jpg" class="alignright" style="width: 300px; height: auto;">
-
 <p class="lead">Har det verkligen gått 30 år?</p>
 
 Det har varit en glädje att få växa upp med dig. Från hata alla dina andetag när vi var tidiga tonåringar, hela vägen till att bli en av mina bästa vänner. Att kunna gå genom livet och uppleva de saker vi har upplevt tillsammans är något som jag kommer alltid värna om. Några av de lyckligaste och gladaste minnen jag har, är från de stunder där vi fann oss skratta så okontrollerat över något som var så dumt att vi praktiskt taget svämmade över köket i tårar.
 
 *Tack för dessa dagar!*
+
+<img src="/images/stephanie30_2.jpg" class="alignright" style="max-width: 300px; height: auto; display: block;">
 
 Jag sitter på kontoret denna soliga februarimåndag, ändå är det kallt i rummet och jag önskar att jag hade tagit med en tröja. Bilar rör sig på vägarna i närheten; en man säljer Situation Stockholm vid hörnet. På något sätt, även om jag vet att de gör ljud, så jag hör ingenting annat än en dunk av de samma färglösa frågorna mot mitt spända och tysta sinne. Det är svårt att veta vad man ska säga till dig. Du är fortfarande ung och vacker och du fler "början på något nytt" än du vet som ligger framför dig; dina dagar har fortfarande runda hörn.
 
