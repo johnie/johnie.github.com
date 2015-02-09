@@ -18,6 +18,13 @@ p{
   -webkit-font-smoothing: antialiased;
 }
 
+ul,
+ol{
+  li{
+    margin-bottom: .5em;
+  }
+}
+
 strong{
   font-weight: 600;
   font-family: $base-font-family;

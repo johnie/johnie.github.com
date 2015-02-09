@@ -16,3 +16,15 @@
   display: block;
   margin: 0 auto;
 }
+
+@media (max-width: 680px) {
+  .alignleft,
+  .alignright,
+  .aligncenter{
+    display: block;
+    float: none;
+    clear: both;
+    margin: 0;
+    margin-bottom: 1em;
+  }
+}

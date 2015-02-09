@@ -32,6 +32,5 @@ do ->
 
 
   $ ->
-    menu.init()
     headerImage.init()
     fullVideo.init()
