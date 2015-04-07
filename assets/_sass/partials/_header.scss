@@ -8,16 +8,31 @@
   background-position: top center;
   -webkit-background-size: cover;
   background-size: cover;
+  position: relative;
   color: $body-color;
   @extend .cf;
 
   .header__inner{
     padding: 2em;
+    position: relative;
+    z-index: 1;
     @extend .cf;
 
     .has-header &{
       background-color: rgba(0, 0, 0, 0.5);
     }
+  }
+
+  &:before{
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    opacity: .3;
   }
 }
 
@@ -48,7 +63,7 @@
 }
 
 .post-date{
-  color: #aaa;
+  color: #eee;
 }
 
 .post-title{
