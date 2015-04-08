@@ -7,6 +7,10 @@
   font-size: 1.8em;
   margin-bottom: 1.5em;
   font-family: $base-font-family;
+
+  @media (max-width: 600px) {
+    font-size: 1.5rem;
+  }
 }
 
 p{

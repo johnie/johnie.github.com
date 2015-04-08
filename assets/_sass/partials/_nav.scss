@@ -16,6 +16,10 @@
 
   li{
     display: inline-block;
+
+    &:last-child a{
+      padding-right: 0 !important;
+    }
   }
 
   a{
@@ -31,6 +35,10 @@
 
     &.active{
       color: $brand-color;
+    }
+
+    @media (max-width: 600px) {
+      padding-right: .5em;
     }
   }
 }
