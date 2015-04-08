@@ -1,7 +1,11 @@
-<!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#">
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE]>           <html class="no-js ie-shit"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="sv" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
 
-  {% include head.html %}
+{% include head.html %}
 
 <body {% if page.id %} data-current-page="{{ page.id }}" {% else %} {% endif %}>
 <div class="site{% if page.headerImage %} has-header {% endif %}">
