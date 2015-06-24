@@ -2,8 +2,8 @@
 published: true
 title: Hur talar man om att man älskar henne?
 layout: post
-headerImage: /images/207.jpg
-backgroundPos: bottom center
+headerImage: /images/dilkenjohnie.png
+backgroundPos: top center
 ---
 
 <p class="lead">Har ni någon gång träffat någon som bara kan dig? Som förstår dig? Som ger dig all trygghet? Som gör dig hel? Någon som, även om du var i din mörkaste period, fick dig känna att du är den du alltid varit ämnad till att vara.</p>
