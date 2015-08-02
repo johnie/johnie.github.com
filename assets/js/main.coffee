@@ -15,13 +15,16 @@ do ->
     init: ->
       this.starter()
     starter: ->
-      header = $('.header')
+      header = $('.header-image')
       backgroundImage = header.data('header-image')
       backgroundPos = header.data('background-position')
       if backgroundImage
         header.css
           'background-image': 'url(' + backgroundImage + ')'
           'background-position': if backgroundPos then backgroundPos else 'top center'
+        setTimeout ->
+          header.addClass 'show'
+        , 500
 
   fullVideo =
     init: ->

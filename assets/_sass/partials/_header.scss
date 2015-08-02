@@ -4,10 +4,6 @@
 
 .header{
   background-color: $base-ui-color;
-  background-repeat: no-repeat;
-  background-position: top center;
-  -webkit-background-size: cover;
-  background-size: cover;
   position: relative;
   color: $body-color;
   @extend .cf;
@@ -37,6 +33,24 @@
     bottom: 0;
     background-color: black;
     opacity: .3;
+  }
+}
+
+.header-image{
+  background-repeat: no-repeat;
+  background-position: top center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity .5s ease-out;
+
+  &.show{
+    opacity: 1;
   }
 }
 

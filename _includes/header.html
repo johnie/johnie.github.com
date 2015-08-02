@@ -1,4 +1,5 @@
-<header class="header" role="banner" {% if page.headerImage %} data-header-image="{{ page.headerImage }}" {% endif %} {% if page.headerImage %} data-background-position="{{ page.backgroundPos }}" {% endif %}>
+<header class="header" role="banner">
+  {% if page.headerImage %} <div class="header-image" data-header-image="{{ page.headerImage }}" {% if page.headerImage %} data-background-position="{{ page.backgroundPos }}" {% endif %} ></div> {% endif %}
   <div class="header__inner">
     <div class="grid">
       <div class="grid__item  one-half">
