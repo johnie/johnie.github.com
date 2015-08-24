@@ -7,6 +7,5 @@ headerImage: /images/about.jpg
 backgroundPos: center center
 ---
 
-<p class="lead">Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
 
-I solve design problems by making people’s day less ordinary, preferably with a smile. Often I also [code](http://github.com/johnie).
+I solve design problems by making people’s day less ordinary, preferably with a smile and together with my wonderful soulmate [Dilken](http://dilken.se). Often I also [code](http://github.com/johnie).
