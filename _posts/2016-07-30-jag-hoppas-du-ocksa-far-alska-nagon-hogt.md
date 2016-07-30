@@ -10,7 +10,7 @@ backgroundPos: top center
 
 Jag hoppas att din värme väller över varje gång du vill öppna munnen. Jag hoppas att ditt hjärta bubblar upp och du har glömt att vara tyst.
 
-Jag hoppas inte du tar dig fram försiktigt; utan du krigar vårdslöst. Allt känns storslaget. Det finns ingeting som kan tysta dig. Ingen ambivalens om att du kanske tar i för mycket. Du bara älskar, älskar, älskar.
+Jag hoppas inte du tar dig fram försiktigt; utan du krigar vårdslöst. Allt känns storslaget. Det finns ingenting som kan tysta dig. Ingen ambivalens om att du kanske tar i för mycket. Du bara älskar, älskar, älskar.
 
 **Jag hoppas du också får älska någon högt.**
 
@@ -23,7 +23,7 @@ Jag hoppas du får bli ett litet barn igen då det kändes som att ingenting had
 **Jag hoppas du också får älska någon högt.**
 
 Och jag hoppas att de älskar dig tillbaka lika högt. Jag hoppas att ni skapar en symfoni tillsammans. Grannarna får klaga hur mycket de vill, men du kommer att alltför bortdomnad för att kunna bry dig. Allt älskande. Allt oväsen. 
-Jag hoppas ni blir smått galna ihop. Att ni hittar er humor. Era interna skämt.
+Jag hoppas ni blir smått galna ihop. Att ni hittar er humor. Era interna skämt. Att ni sitter uppe hela nätter bara för att rambla om er framtid. Få vakna upp med den andre i dina armar och väcka hen med oändligt många kyssar. 
 
 *Du förtjänar att älska högt, tveklöst, och utan rädsla. Du förtjänar att känna allt det underbara kärleken har att erbjuda.*
 
