@@ -2,7 +2,6 @@
 published: true
 title: Hur talar man om att man älskar henne?
 layout: post
-headerImage: /images/dilkenjohnie.png
 backgroundPos: top center
 ---
 

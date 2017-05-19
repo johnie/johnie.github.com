@@ -2,7 +2,6 @@
 published: true
 title: Jag hoppas du också får älska någon högt
 layout: post
-headerImage: /images/alskar2.jpg
 backgroundPos: top center
 ---
 
