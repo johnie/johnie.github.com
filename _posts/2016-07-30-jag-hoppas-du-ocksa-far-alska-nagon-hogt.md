@@ -26,6 +26,3 @@ Jag hoppas ni blir smått galna ihop. Att ni hittar er humor. Era interna skämt
 
 *Du förtjänar att älska högt, tveklöst, och utan rädsla. Du förtjänar att känna allt det underbara kärleken har att erbjuda.*
 
-För det får jag;
-
-**Jag älskar dig med allt jag har, Dilken!**
