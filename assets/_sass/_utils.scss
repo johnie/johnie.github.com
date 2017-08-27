@@ -27,8 +27,8 @@ $body-color: #F6F8FB!default;
 
 
 // FONTS
-$base-font-family: "Montserrat", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, arial, sans-serif!default;
-$body-font-family: "Montserrat", $base-font-family !default;
+$base-font-family: "Roboto Mono", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, arial, sans-serif!default;
+$body-font-family: "Roboto Mono", $base-font-family !default;
 
 
 
@@ -38,7 +38,7 @@ $mega-size:         72px!default;
 $kilo-size:         48px!default;
 
 $h1-size:           60px!default; // .alpha
-$h2-size:           45px!default; // .beta
+$h2-size:           30px!default; // .beta
 $h3-size:           40px!default; // .gamma
 $h4-size:           24px!default; // .delta
 $h5-size:           20px!default; // .epsilon
@@ -50,7 +50,7 @@ $micro-size:        10px!default;
 
 
 // GRIDS
-$container-width: 1100px!default;
+$container-width: 800px!default;
 $base-spacing-unit: 24px!default;
 
 

@@ -44,10 +44,10 @@
       margin: 0;
 
       a{
-        color: $base-ui-color;
+        color: $brand-color;
 
         &:hover{
-          color: $brand-color;
+          color: darken($brand-color, 5%);
         }
       }
     }
@@ -67,13 +67,9 @@
 
 .archive__item{
   display: block;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #444;
   padding: 1em;
   margin-bottom: 0em;
-
-  &:nth-child(even){
-    background-color: #f9f9f9;
-  }
 }
 
 .archive__time, .archive__title{
@@ -87,19 +83,20 @@
 
 .archive__time{
   min-width: 6em;
+  font-size: 1rem;
 }
 
 .archive__title{
-  font-size: 1.2em;
+  font-size: 1rem;
   margin: 0;
   padding: 0;
   font-weight: 600;
 
   a{
-    color: $base-ui-color;
+    color: $brand-color;
 
     &:hover{
-      color: $brand-color;
+      color: darken($brand-color, 5%);
     }
   }
 }

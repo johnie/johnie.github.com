@@ -4,33 +4,36 @@
 
 
 .lead{
-  font-size: 1.8em;
+  font-size: 24px;
   margin-bottom: 1.5em;
   font-family: $base-font-family;
 
   @media (max-width: 600px) {
-    font-size: 1.5rem;
+    font-size: 22px;
   }
 }
 
 p{
   font-family: $body-font-family;
-  font-size: 22px;
-  line-height: 1.5;
+  font-size: 18px;
+  line-height: 1.68;
   letter-spacing: -0.02em;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
+  color: #788398;
 }
 
 ul,
 ol{
   li{
     margin-bottom: .5em;
+    color: #788398;
+    font-size: 18px;
   }
 }
 
-strong{
-  font-weight: 600;
+strong {
+  font-weight: 700;
   font-family: $base-font-family;
 }
 

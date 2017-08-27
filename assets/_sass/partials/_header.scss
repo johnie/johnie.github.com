@@ -3,7 +3,6 @@
 \*------------------------------------*/
 
 .header{
-  background-color: $base-ui-color;
   position: relative;
   color: $body-color;
   @extend .cf;
@@ -57,10 +56,11 @@
 .site-title{
   margin: 0;
   padding: 0;
-  font-size: 1.2em;
+  font-size: 1em;
   letter-spacing: 1px;
   font-weight: 600;
   line-height: 20px;
+  text-transform: lowercase;
 
   a{
     color: #fff;
@@ -73,9 +73,9 @@
 
 
 .post-info{
-  text-align: center;
-  max-width: 1100px;
-  padding-top: 150px;
+  text-align: left;
+  max-width: 800px;
+  padding-top: 100px;
   margin: 0 auto;
   position: relative;
 }
@@ -85,11 +85,12 @@
 }
 
 .post-title{
-  line-height: 1.1;
+  line-height: 1.4;
   margin-bottom: 1em;
-
+  font-size: 3rem;
+  
   @media (max-width: 600px) {
     padding: 0 1em;
-    font-size: 2rem;
+    font-size: 3rem;
   }
 }
